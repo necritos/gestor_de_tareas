@@ -1,4 +1,8 @@
-gestor_de_tareas
-================
+PROYECTO GESTOR DE TAREAS
+=========================
 
-gestor de proyectos
+
+
+0  PLAN DE GESTION DE CONFIGURACION
+   ================================
+
